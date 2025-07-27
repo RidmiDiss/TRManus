@@ -1,0 +1,2 @@
+# TRManus
+Trading Robot
